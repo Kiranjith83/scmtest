@@ -1,0 +1,7 @@
+api_protocol = "https"
+enterprise = "default"
+git_port = "8989"
+organization = "my-org"
+pipeline = "master"
+server = "owcatraining001-9anxmgeounp7ekdx.us-west-2.opsworks-cm.io"
+user = "admin"
